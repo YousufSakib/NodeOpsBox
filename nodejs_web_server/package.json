@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_web_server",
+  "version": "1.0.0",
+  "description": "✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).",
+  "main": "logEvents.js",
+  "scripts": {
+    "start": "node server", 
+    "dev": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "uuid": "^8.3.2"
+  }
+}
