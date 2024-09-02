@@ -1,0 +1,22 @@
+{
+    "name": "server",
+    "version": "1.0.0",
+    "description": "A websocket implementation",
+    "main": "server.js",
+    "scripts": {
+        "test": "N/a"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "socket.io"
+    ],
+    "author": "Sakib",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/N/A/issues"
+    },
+    "homepage": "https://github.com/N/A#readme"
+}
